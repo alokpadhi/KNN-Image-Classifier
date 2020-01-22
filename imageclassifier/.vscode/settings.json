@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\Predictly\\Anaconda3\\python.exe",
+    "python.linting.pylintArgs":["--extension-pkg-whitelist=cv2"]
+}
